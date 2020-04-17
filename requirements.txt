@@ -1,4 +1,4 @@
-python==2.7.16
+python-2.7.17
 Flask==0.10.1
 Flask-Migrate==1.2.0
 Flask-Mobility==0.1.1
