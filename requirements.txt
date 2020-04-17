@@ -37,4 +37,3 @@ stripe>=1.21.0
 subprocess32>=3.2.7
 urllib3>=1.16
 validate-email>=1.2
-wsgiref>=0.1.2
