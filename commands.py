@@ -3,8 +3,8 @@ import time
 import os
 
 from dropbox.client import DropboxClient
-from flask.ext.script import Command
-from flask.ext.script import Option
+from flask_script import Command
+from flask_script import Option
 
 from app import app
 from app import db
