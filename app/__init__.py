@@ -1,6 +1,6 @@
 from flask import Flask
 from flask_migrate import Migrate, MigrateCommand
-from flask.ext.mobility import Mobility
+from flask_mobility import Mobility
 from flask_script import Manager
 from flask_sqlalchemy import SQLAlchemy
 from flask_wtf.csrf import CsrfProtect
